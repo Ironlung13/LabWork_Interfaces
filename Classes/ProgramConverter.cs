@@ -9,13 +9,13 @@ namespace LabWork_Interfaces.Classes
         public string ConvertToCSharp(string input)
         {
             //Convert to c#
-            return "Success";
+            return "Converted to C#";
         }
 
         public string ConvertToVB(string input)
         {
             //Convert to VB
-            return "Success";
+            return "Converted to VB";
         }
     }
 }
